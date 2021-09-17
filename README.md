@@ -1,2 +1,2 @@
 # juliaintro
-This repo contains a .jl introductory file with basic notions
+This repo contains .jl introductory files with basic notions
